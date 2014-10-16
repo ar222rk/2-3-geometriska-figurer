@@ -1,0 +1,6 @@
+C:\Users\Aslogan\Documents\Visual Studio 2013\Projects\2,3- geometriska-figurer\2,3- geometriska-figurer\obj\Debug\2,3- geometriska-figurer.csprojResolveAssemblyReference.cache
+C:\Users\Aslogan\Documents\Visual Studio 2013\Projects\2,3- geometriska-figurer\2,3- geometriska-figurer\bin\Debug\2,3- geometriska-figurer.exe.config
+C:\Users\Aslogan\Documents\Visual Studio 2013\Projects\2,3- geometriska-figurer\2,3- geometriska-figurer\bin\Debug\2,3- geometriska-figurer.exe
+C:\Users\Aslogan\Documents\Visual Studio 2013\Projects\2,3- geometriska-figurer\2,3- geometriska-figurer\bin\Debug\2,3- geometriska-figurer.pdb
+C:\Users\Aslogan\Documents\Visual Studio 2013\Projects\2,3- geometriska-figurer\2,3- geometriska-figurer\obj\Debug\2,3- geometriska-figurer.exe
+C:\Users\Aslogan\Documents\Visual Studio 2013\Projects\2,3- geometriska-figurer\2,3- geometriska-figurer\obj\Debug\2,3- geometriska-figurer.pdb
